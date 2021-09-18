@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/git-posts/static/css/main.d3b87d6f.chunk.css",
-    "main.js": "/git-posts/static/js/main.e4e24895.chunk.js",
-    "main.js.map": "/git-posts/static/js/main.e4e24895.chunk.js.map",
+    "main.js": "/git-posts/static/js/main.86d2537b.chunk.js",
+    "main.js.map": "/git-posts/static/js/main.86d2537b.chunk.js.map",
     "runtime-main.js": "/git-posts/static/js/runtime-main.957b5428.js",
     "runtime-main.js.map": "/git-posts/static/js/runtime-main.957b5428.js.map",
-    "static/js/2.c8eba15c.chunk.js": "/git-posts/static/js/2.c8eba15c.chunk.js",
-    "static/js/2.c8eba15c.chunk.js.map": "/git-posts/static/js/2.c8eba15c.chunk.js.map",
+    "static/js/2.5fca92f3.chunk.js": "/git-posts/static/js/2.5fca92f3.chunk.js",
+    "static/js/2.5fca92f3.chunk.js.map": "/git-posts/static/js/2.5fca92f3.chunk.js.map",
     "static/js/3.8f34971d.chunk.js": "/git-posts/static/js/3.8f34971d.chunk.js",
     "static/js/3.8f34971d.chunk.js.map": "/git-posts/static/js/3.8f34971d.chunk.js.map",
     "index.html": "/git-posts/index.html",
     "static/css/main.d3b87d6f.chunk.css.map": "/git-posts/static/css/main.d3b87d6f.chunk.css.map",
-    "static/js/2.c8eba15c.chunk.js.LICENSE.txt": "/git-posts/static/js/2.c8eba15c.chunk.js.LICENSE.txt",
+    "static/js/2.5fca92f3.chunk.js.LICENSE.txt": "/git-posts/static/js/2.5fca92f3.chunk.js.LICENSE.txt",
     "static/media/pokeball.05e5662d.png": "/git-posts/static/media/pokeball.05e5662d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.957b5428.js",
-    "static/js/2.c8eba15c.chunk.js",
+    "static/js/2.5fca92f3.chunk.js",
     "static/css/main.d3b87d6f.chunk.css",
-    "static/js/main.e4e24895.chunk.js"
+    "static/js/main.86d2537b.chunk.js"
   ]
 }
