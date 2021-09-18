@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACG,iBAAkB,CAClB,QAAS,CACT,WAAY,CACZ,UACH,CACA,MACG,eAAgB,CAChB,iBACH","file":"main.d3b87d6f.chunk.css","sourcesContent":[".post img {\n   position: absolute;\n   top: 20px;\n   left: -100px;\n   opacity: 0.6;\n}\n.post {\n   overflow: hidden;\n   padding-left: 80px;\n}\n"]}
